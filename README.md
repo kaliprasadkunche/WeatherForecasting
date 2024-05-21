@@ -1,6 +1,6 @@
-![Application screenshot](assets/screenshot.png)
 
-<br/>
+<br/>![Screenshot](https://github.com/kaliprasadkunche/WeatherForecasting/assets/113325469/1be4057d-b0e3-4e34-8d91-11fa31ce2524)
+
 <br/>
 
 With [The Weather Forecasting](https://the-weather-forecasting.netlify.app) user can search locations by city name and observe the weather for the next 5-6 days and 3 hour interval.
